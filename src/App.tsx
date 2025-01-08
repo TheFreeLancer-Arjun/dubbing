@@ -1,8 +1,8 @@
 import React from "react";
 import "tailwindcss/tailwind.css";
-import Navbar from "./component/Navbar";
-import Profile from "./component/Profile";
-import PostSend from "./component/PostSend";
+import Navbar from "./components/Navbar";
+import Profile from "./components/Profile";
+import PostSend from "./components/PostSend";
 
 const App = () => {
   return (
